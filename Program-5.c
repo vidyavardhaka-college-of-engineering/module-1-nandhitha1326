@@ -1,8 +1,9 @@
 //INPUT: 5 7
 //OUTPUT: 7 13    6 14
-
+// insert the missing line
+ int main ()
 { 
-     // insert #inthe missing code
+     // insert the missing code
 printf("Enter the values of i and j");
 scanf("%d%d",&i,&j);
      i = i + 1;
